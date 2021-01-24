@@ -6,9 +6,33 @@ The vote granted to the holders of Index Credit is transferable and demands a ma
 
 Thus, it monetizes the will to power since distributed control over The Index literally is arbitrary control over prices in the economy.
 
+Traditionally, in a world where currency is backed by labor and control, money's money is the interest. The Index offers an alternative, where money's money is backed by distributed control of actual assets and their relative position, one to another.
+
 ## Phase
 
 This code repository, and the project itself is in the exploratory phase of its development. The main idea has been outlined, initial obvious challenges are currently being assessed and prepared for.
+
+### Current verbose ideological documentation:
+
+Yellow Paper: https://docs.google.com/document/d/1XV6hUUn5Jd_KS65egTdw144m3aIFQ8ASqBNPur-Rda4/edit?usp=sharing
+
+Patent (pending): https://docs.google.com/document/d/1iSiIC2F2CDsxA9rCvCi_RDmAG47zBTjM20GfArbn2pM/edit?usp=sharing
+
+Original Reddit post, describing the idea: https://www.reddit.com/r/smartcontracts/comments/jzurhl/what_do_you_think_of_index_token_is_it_possible/
+
+Follow up Reddit post, describing progress: https://www.reddit.com/r/smartcontracts/comments/kydfnf/the_index_moneys_money/
+
+Baseline backing-balancing formula (without vote integration): https://math.stackexchange.com/questions/3982701/how-to-derive-a-formula-with-interacting-variables-with-example-problem
+
+## Getting Started
+
+To get started
+
+1. Install Python
+2. pip install -f requirements.txt
+3. python setup.py develop
+4. jupyter notebook
+5. run "reward forumla explored.ipynb"
 
 ## Major Known Challenges
 
@@ -26,5 +50,3 @@ This code repository, and the project itself is in the exploratory phase of its 
 4. A representation of the monetization of government's arbitrary power over prices.
 5. A major step towards the realization the democratization of power; making the vote a real commodity controlled by the people rather than stolen by politicians who aggregate the people's power for self-enrichment and self-aggrandizement.
 6. The economy's eye; the ability to expend attention self-referentially the therefore predict and ultimate control its own behavior.
-
-## 
