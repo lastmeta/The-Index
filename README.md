@@ -41,6 +41,7 @@ To get started
 2. Internal Price Discovery (the use of oracles is not ideal, an order book allows for arbitrage in some cases, the system needs to remain coherent with the external world as closely as possible)
   - Order book may be necessary.
   - There may be alternative solutions.
+  - I think the best solution to this is to merely allow the trading in and out of the system, along with the voting to determine the price. when a trade happens the price changes. when voting happens the rate of change that the price changes changes. no order book necessary. No oracles needed. 
 
 ## How else can The Index be described conceptually?
 
